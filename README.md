@@ -17,14 +17,14 @@ An aspiring data-analyst with a specialization in Numpy, Pandas and Machine Lear
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/singhdeepanshu05?tab=repositories](https://github.com/singhdeepanshu05?tab=repositories)
+- 👨‍💻 All of my projects are available at <a img src ="https://cdn-icons-png.flaticon.com/512/25/25231.png" href =(https://github.com/singhdeepanshu05?tab=repositories)>
 
 - 💬 Ask me about **MS-Excel, SQL, Python, Tableau, Probability and Statistics.**
 
 - 📫 Reach me through **https://www.linkedin.com/in/deepanshu-singh-a8811b103/**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1h7-KhUlYNVjVkYR-J2B5K1dxViUWD3Sm/view?usp=sharing](https://drive.google.com/file/d/1h7-KhUlYNVjVkYR-J2B5K1dxViUWD3Sm/view?usp=sharing)
-
+img 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/deepanshu1736" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepanshu1736" height="30" width="40" /></a>
