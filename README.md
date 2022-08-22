@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepanshu Singh</h1>
- <img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="30px"/>
+ <img src="[https://camo.githubusercontent.com/9eb3fdcaa648566c6a055c75fc17dbaf3849b11ede8019397a30d2092fdcd3be/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3262653163655f38363435363739303038343534313865626664363165323937363337343634647e6d76322e676966](https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif)" width="500"/>
+ 
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhdeepanshu05&label=Profile%20views&color=0e75b6&style=flat" alt="singhdeepanshu05" /> </p>
