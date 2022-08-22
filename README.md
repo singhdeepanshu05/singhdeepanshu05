@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src="https://i.gifer.com/74pZ.gif" width="500"/>
+  <img src="https://aryng.com/assets/img/ani2.gif" width="400"/>
 </div>
+
 
 ### नमस्ते (Namaste)🙏🏻, I am Deepanshu Singh !
 <img align='right' src="https://media3.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e47938u2686ztgnyxevl2ujamfey64zvg1o0udsinkd&rid=giphy.gif&ct=g" width="330">
