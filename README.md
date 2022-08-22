@@ -16,7 +16,7 @@ An aspiring data-analyst with a specialization in Numpy, Pandas and Machine Lear
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at <a href = "https://github.com/singhdeepanshu05?tab=repositories"><img src = "https://cdn-icons-png.flaticon.com/512/25/25231.png"></a>
+- 👨‍💻 All of my projects are available at <a href = "https://github.com/singhdeepanshu05?tab=repositories"><img src = "https://cdn-icons-png.flaticon.com/512/25/25231.png" height="25px"/></a>
 
 - 💬 Ask me about **MS-Excel, SQL, Python, Tableau, Probability and Statistics.**
 
