@@ -40,37 +40,6 @@ An aspiring data-analyst with a specialization in Numpy, Pandas and Machine Lear
 
 
 
-## 🛠️ Technologies and Tools I use:
-
-<p>
-	<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
-        height="25px" />
-<br>
-    <img alt="SQL"
-        src="https://cdn-icons-png.flaticon.com/512/2772/2772165.png"
-        height="25px" />
-<br>
-    <img alt="Numpy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png"
-        height="25px" />
-<br>
-    <img alt="Pandas"        src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/800px-Pandas_logo.svg.png"
-        height="25px" />
-<br>
-    <img alt="HTML5" src="https://techbeacon.com/sites/default/files/styles/social/public/html5-mobile-app-native-hybrid-pros-cons.jpg?itok=R3pMKIzh"
-        height="25px" />
-<br>
-    <img alt="CSS3" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png"
-        height="25px" />
-<br>
-<br>
-    <img alt="Java"
-        src="https://dev.java/assets/images/java-logo-vert-blk.png"
-        height="25px" />   
-<br>
-   
-  
-</p>
-
 ## Let's get connected:
 
 <p>
