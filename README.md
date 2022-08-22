@@ -12,8 +12,7 @@ An aspiring data-analyst with a specialization in Numpy, Pandas and Machine Lear
 - 💼 any freelance work? do reach, ✔️[Linkedin](https://www.linkedin.com/in/deepanshu-singh-a8811b103/)
 ✔️[Mail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=singh.deepanshu1736@gmail.com.com&su=SUBJECT&body=BODY&tf=1)
 - 💬 ask me about anything, i am happy to help;
- <img align="right" alt="GIF" clear = "both" src="https://media1.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif?cid=ecf05e47ohbhtp1njqoaau0hxrxt128i7h1aqevremx1detq&rid=giphy.gif&ct=g" width="500" height="320" />
-
+ 
 - 🔭 I’m currently working on **Machine Learning**
 
 - 🌱 I’m currently learning **Data Science**
