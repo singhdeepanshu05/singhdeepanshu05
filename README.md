@@ -109,6 +109,6 @@ An aspiring data-analyst with a specialization in Numpy, Pandas and Machine Lear
   
   <br>
   <p align="center">
-  <img src="https://github.com/singhdeepanshu05/singhdeepanshu05/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
