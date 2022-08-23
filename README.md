@@ -6,7 +6,7 @@
 ### नमस्ते (Namaste)🙏🏻, I am Deepanshu Singh !
 <img align='right' src="https://media3.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e47938u2686ztgnyxevl2ujamfey64zvg1o0udsinkd&rid=giphy.gif&ct=g" width="330">
 
-<img src="https://readme-typing-svg.herokuapp.com?lines= Data+Analyst; & center=true & width=400&height=50">
+<img src="blob:https://www.textstudio.co/21930779-0c8f-4b2a-b2a8-225dda176ec2; & center=true & width=400&height=50">
 
 
 <br />
