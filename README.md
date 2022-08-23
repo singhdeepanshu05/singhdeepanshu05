@@ -39,7 +39,8 @@ An aspiring data-analyst with a specialization in Numpy, Pandas and Machine Lear
 <h2 dir="auto"><img src="https://camo.githubusercontent.com/6324b8a2d7c4e78c6271e5bdb479001f501fe1108cdd4a0563d5b08758feb0c4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a434e36463346416b7773794f47553252532f67697068792e676966" width="60" data-animated-image="" <strong>Github Stats:</strong></h2>
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singhdeepanshu05&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="singhdeepanshu05" />
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singhdeepanshu05&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="singhdeepanshu05" /></p>
+<p>
 <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api?username=singhdeepanshu05&theme=black-ice&show_icons=true&include_all_commits=true" /></p>
 
 <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhdeepanshu05&theme=black&layout=compact" />
