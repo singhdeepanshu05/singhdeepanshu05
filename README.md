@@ -6,7 +6,7 @@
 ### नमस्ते (Namaste)🙏🏻, I am Deepanshu Singh !
 <img align='right' src="https://media3.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e47938u2686ztgnyxevl2ujamfey64zvg1o0udsinkd&rid=giphy.gif&ct=g" width="330">
 
-<img src="blob:https://www.textstudio.co/21930779-0c8f-4b2a-b2a8-225dda176ec2 & center=true & width=400&height=50">
+<img src="https://cdn.dribbble.com/userupload/3158903/file/original-3f5abe8b99ff4ba4626ddf6660115182.jpg?compress=1&resize=1024x768; & center=true & width=400&height=50">
 
 
 <br />
@@ -16,9 +16,9 @@ An aspiring data-analyst with a specialization in Numpy, Pandas and Machine Lear
 
 - 💼 any freelance work? do reach, ✔️[Linkedin](https://www.linkedin.com/in/deepanshu-singh-a8811b103/)
 ✔️[Mail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=singh.deepanshu1736@gmail.com.com&su=SUBJECT&body=BODY&tf=1)
-- 💬 ask me about anything, i am happy to help;
+- 💬 ask me about anything, I am happy to help;
  
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Analytics and MAchine Learning**
 
 - 🌱 I’m currently learning **Data Science**
 
