@@ -43,14 +43,15 @@ An aspiring data-analyst with a specialization in Numpy, Pandas and Machine Lear
 
 <summary><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <b>Github Readme Stats</b></summary>
  <br>
- <p align="center" dir="auto"><img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=singhdeepanshu05&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Deepanshu Singh" >
+ <p align="center" dir="auto"><img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=Deepanshu-Singh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Deepanshu Singh" >
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=singhdeepanshu05&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Deepanshu Singh" /></p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 <p>
 <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api?username=singhdeepanshu05&theme=black-ice&show_icons=true&include_all_commits=true" /></p>
 
-<img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhdeepanshu05&theme=black&layout=compact" />
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/deepanshu1736" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepanshu1736" height="30" width="40" /></a>
