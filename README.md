@@ -57,16 +57,11 @@ An aspiring data-analyst with a specialization in Numpy, Pandas and Machine Lear
 <a href="https://www.hackerrank.com/singh_deepanshu2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="singh_deepanshu2" height="30" width="40" /></a>
 </p>
 
-📈 my github stats
-
-<p align="right"> 
-        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api?username=singhdeepanshu05&theme=react&show_icons=true&include_all_commits=true" />
-        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhdeepanshu05&theme=react&layout=compact" />
- </p>
 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DHANOLA&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=singhdeepanshu05&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
 
 
 
