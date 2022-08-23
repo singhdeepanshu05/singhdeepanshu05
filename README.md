@@ -18,7 +18,7 @@ An aspiring data-analyst with a specialization in Numpy, Pandas and Machine Lear
 ✔️[Mail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=singh.deepanshu1736@gmail.com.com&su=SUBJECT&body=BODY&tf=1)
 - 💬 ask me about anything, I am happy to help;
  
-- 🔭 I’m currently working on **Analytics and MAchine Learning**
+- 🔭 I’m currently working on **Analytics and Machine Learning**
 
 - 🌱 I’m currently learning **Data Science**
 
