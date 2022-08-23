@@ -50,16 +50,6 @@ An aspiring data-analyst with a specialization in Numpy, Pandas and Machine Lear
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/deepanshu1736" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepanshu1736" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/deepanshu-singh-a8811b103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepanshu-singh-a8811b103" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/singh_deepanshu2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="singh_deepanshu2" height="30" width="40" /></a>
-</p>
-
-
-
-
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=singhdeepanshu05&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
 
@@ -102,7 +92,7 @@ An aspiring data-analyst with a specialization in Numpy, Pandas and Machine Lear
     
 <!-- retro visitor counter -->  
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/DHANOLA/count.svg" />  
+  <img src="https://profile-counter.glitch.me/singhdeepanshu05/count.svg" />  
 </p>
    
   
@@ -119,6 +109,6 @@ An aspiring data-analyst with a specialization in Numpy, Pandas and Machine Lear
   
   <br>
   <p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/singhdeepanshu05/singhdeepanshu05/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
