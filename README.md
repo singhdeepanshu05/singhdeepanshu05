@@ -41,10 +41,9 @@ An aspiring data-analyst with a specialization in Numpy, Pandas and Machine Lear
 
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singhdeepanshu05&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="singhdeepanshu05" /></p>
 <p align="right"> 
-        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api?username=singhdeepanshu05&theme=react&show_icons=true&include_all_commits=true" />
-        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhdeepanshu05&theme=react&layout=compact" />
+        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api?username=singhdeepanshu05&theme=black&show_icons=true&include_all_commits=true" />    
  </p>
-
+<img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhdeepanshu05&theme=black&layout=compact" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/deepanshu1736" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepanshu1736" height="30" width="40" /></a>
