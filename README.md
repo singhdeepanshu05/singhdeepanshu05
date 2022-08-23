@@ -39,19 +39,17 @@ An aspiring data-analyst with a specialization in Numpy, Pandas and Machine Lear
 <h2 dir="auto"><img src="https://camo.githubusercontent.com/6324b8a2d7c4e78c6271e5bdb479001f501fe1108cdd4a0563d5b08758feb0c4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a434e36463346416b7773794f47553252532f67697068792e676966" width="60" data-animated-image="" <strong>Github Stats:</strong></h2>
 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singhdeepanshu05&" alt="singhdeepanshu05" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singhdeepanshu05&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="singhdeepanshu05" /></p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/deepanshu1736" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepanshu1736" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/deepanshu-singh-a8811b103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepanshu-singh-a8811b103" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/singh_deepanshu2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="singh_deepanshu2" height="30" width="40" /></a>
 </p>
-
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singhdeepanshu05&" alt="singhdeepanshu05" /></p>
-
-
 
 📈 my github stats
 
