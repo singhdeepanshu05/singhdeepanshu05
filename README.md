@@ -47,12 +47,7 @@ An aspiring data-analyst with a specialization in Numpy, Pandas and Machine Lear
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=singhdeepanshu05&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Deepanshu Singh" /></p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
-<p>
-<img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api?username=singhdeepanshu05&theme=black-ice&show_icons=true&include_all_commits=true" /></p>
 
-
-
-   <a href="https://github.com/singhdeepanshu05"><img src="https://github-readme-stats.vercel.app/api?username=Deepanshu-Singh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Yogesh-Nayadddk's GitHub stats" /></a>
 
 
 <h3 align="left">Connect with me:</h3>
