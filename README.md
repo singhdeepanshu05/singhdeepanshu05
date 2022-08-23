@@ -10,7 +10,6 @@
         src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;&center=true&width=400&height=50"></a>
 
 
-<br />
 
 An aspiring data-analyst with a specialization in Numpy, Pandas and Machine Learning with a passion for learning with an endless supply of optimism and curiosity.
 
