@@ -6,7 +6,8 @@
 ### नमस्ते (Namaste)🙏🏻, I am Deepanshu Singh !
 <img align='right' src="https://media3.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e47938u2686ztgnyxevl2ujamfey64zvg1o0udsinkd&rid=giphy.gif&ct=g" width="330">
 
-<img src="https://cdn.dribbble.com/userupload/3158903/file/original-3f5abe8b99ff4ba4626ddf6660115182.jpg?compress=1&resize=1024x768; & center=true & width=400&height=50">
+<a href="https://github.com/durgeshrai633/readme-typing-svg"><img
+        src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=true&width=400&height=50"></a>
 
 
 <br />
