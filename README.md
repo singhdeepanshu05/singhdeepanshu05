@@ -24,7 +24,7 @@ An aspiring data-analyst with a specialization in Numpy, Pandas and Machine Lear
 
 - 👨‍💻 All of my projects are available at    <a href = "https://github.com/singhdeepanshu05?tab=repositories"><img src = "https://cdn-icons-png.flaticon.com/512/25/25231.png" height="25px" align = "Center"/></a>
 
-- 💬 Ask me about **MS-Excel, SQL, Python, Tableau, Probability and Statistics.**
+
 
 <h2 dir="auto"><img src="https://camo.githubusercontent.com/b429fd0344f4072885b19923f824d4616893261e9d7cc2afb62f85224caca070/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a32704f476547594b65327843434b7766692f67697068792e676966" width="40" data-animated-image="" </a> <strong>Languages &amp; Tools:</strong></h2>
 
