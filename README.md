@@ -43,7 +43,7 @@ An aspiring data-analyst with a specialization in Numpy, Pandas and Machine Lear
 
 <summary><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <b>Github Readme Stats</b></summary>
  <br>
- <p align="center" dir="auto"><img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=singhdeepanshu05&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Deepanshu Singh" >
+ <p align="center" dir="auto"><img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=singhdeepanshu05&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117" alt="Deepanshu Singh" >
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=singhdeepanshu05&langs_count=8&count_private=true&layout=compact&bg_color=000000&color=4fff67" alt="Deepanshu Singh" /></p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
